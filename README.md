@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablovilla199&label=Profile%20views&color=0e75b6&style=flat" alt="pablovilla199" /> </p>
 
-- 🔭 I’m currently working on [naval battle](https://github.com/PabloVilla199/Juego-Hundir-la-Flota)
+- 🔭 I’m currently working on [Battleship](https://github.com/PabloVilla199/Juego-Hundir-la-Flota)
 
 - 🌱 I’m currently learning **Phyton, SQL**
 
